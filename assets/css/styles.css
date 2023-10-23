@@ -195,7 +195,7 @@ html {
 .container-input:hover {
     cursor: pointer;
 }
-/*   
+ 
 .input {
     width: 100px;
     padding: 10px 0px 10px 40px;
@@ -203,7 +203,8 @@ html {
     border: solid 1px #ccc;
     transition: all .2s ease-in-out;
     outline: none;
-    /* opacity: 0.8; */
+     opacity: 0.8;
+}
 
   
 .container-input svg {
@@ -222,10 +223,10 @@ html {
     display: block;
 }
   
-/* .input:focus {
+.input:focus {
     background: linear-gradient(to right, #918f8f,#919090,#c5c3c3d5) ;
     width: 150px;
-} */
+}
 
     /* SLIDER */
 #slider {
